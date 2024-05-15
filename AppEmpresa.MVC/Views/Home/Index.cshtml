@@ -2,7 +2,70 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    body {
+        background-image: url('https://scontent.fuio13-1.fna.fbcdn.net/v/t39.30808-6/357190380_581233707534519_2788875710499591306_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JHilAOiYIjAQ7kNvgEgq21H&_nc_ht=scontent.fuio13-1.fna&oh=00_AYCZrLDGB0_nO7dNQOEOmgt6TUETC17wITLk0Jtb0eASIQ&oe=664AEB4D');
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-family: Arial, sans-serif;
+        color: white;
+    }
+
+    .titulo {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        margin-top: 100px;
+        font-size: 40px;
+        font-weight: bold;
+        border-radius: 10px;
+        color: white;
+    }
+
+    .micontenedor {
+        padding: 20px;
+    }
+
+    .tarjeta {
+        background: #f7f7f7;
+        color: #333;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+        .tarjeta h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .tarjeta p {
+            font-size: 16px;
+        }
+
+        .tarjeta img {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+</style>
+
+<div class="container text-center">
+    <div class="titulo">Bienvenido a mi MVC</div>
+    <div class="micontenedor">
+        <div class="tarjeta">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Imagen de .NET">
+            <h2>¿Qué es .NET?</h2>
+            <p>.NET es un framework de desarrollo de software de Microsoft que se utiliza para construir una variedad de aplicaciones, desde aplicaciones web hasta aplicaciones móviles y de escritorio.</p>
+        </div>
+        <div class="tarjeta">
+            <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Imagen de Entity Framework">
+            <h2>¿Qué es Entity Framework?</h2>
+            <p>Entity Framework es una parte de .NET que simplifica el acceso y la manipulación de datos en bases de datos relacionales, facilitando el desarrollo de aplicaciones con acceso a datos.</p>
+        </div>
+        <div class="tarjeta">
+            <img src="https://i.blogs.es/ad7836/api/1366_2000.jpg" alt="Imagen de APIs">
+            <h2>¿Qué son las APIs?</h2>
+            <p>Las APIs (Interfaz de Programación de Aplicaciones) permiten que diferentes aplicaciones se comuniquen entre sí, facilitando la integración de sistemas y el intercambio de datos.</p>
+        </div>
+    </div>
 </div>

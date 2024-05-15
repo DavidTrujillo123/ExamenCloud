@@ -2,6 +2,8 @@
 using AppAnimalesConsumeAPI;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Runtime.Intrinsics.Arm;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace AppAnimalesMVC.Controllers
@@ -9,8 +11,10 @@ namespace AppAnimalesMVC.Controllers
     public class AnimalesController : Controller
     {
         private string urlApi;
+        private string urlbase;
         public AnimalesController(IConfiguration configuration)
         {
+            urlbase = configuration.GetValue("APIURLBASE", "").ToString();
             urlApi = configuration.GetValue("APIURLBASE", "").ToString() + "/Animales";
         }
         // GET: AnimalesController
@@ -30,7 +34,18 @@ namespace AppAnimalesMVC.Controllers
         // GET: AnimalesController/Create
         public ActionResult Create()
         {
+            ViewBag.Grupos = ObtenerListaGrupos().Select(d => new SelectListItem
+            {
+                Value = d.Id.ToString(),
+                Text = d.Nombre
+            }).ToList();
             return View();
+        }
+
+        private Grupo[] ObtenerListaGrupos()
+        {
+
+            return Crud<Grupo>.Read(urlbase + "/Grupos");
         }
 
         // POST: AnimalesController/Create
@@ -38,11 +53,15 @@ namespace AppAnimalesMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Animal data)
         {
+
             try
             {
+                ViewBag.Animal = data;
+
                 var newdata = Crud<Animal>.Create(urlApi, data);
 
                 return RedirectToAction(nameof(Index));
+
             }
             catch (Exception ex)
             {
@@ -54,6 +73,12 @@ namespace AppAnimalesMVC.Controllers
         // GET: AnimalesController/Edit/5
         public ActionResult Edit(int id)
         {
+
+            ViewBag.Grupos = ObtenerListaGrupos().Select(d => new SelectListItem
+            {
+                Value = d.Id.ToString(),
+                Text = d.Nombre
+            }).ToList();
             var data = Crud<Animal>.Read_ByUd(urlApi, id);
             return View(data);
         }

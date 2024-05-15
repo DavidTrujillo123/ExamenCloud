@@ -10,3 +10,4 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\refint\AppAnimalesConsumeAPI.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.pdb
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\ref\AppAnimalesConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.sourcelink.json

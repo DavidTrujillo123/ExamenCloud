@@ -227,3 +227,4 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\obj\Release\net8.0
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\obj\Release\net8.0\ref\AppAnimalesMVC.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\bin\Release\net8.0\AppAnimalesConsumeAPI.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\bin\Release\net8.0\AppAnimalesConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\obj\Release\net8.0\AppAnimalesMVC.sourcelink.json

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.api\\appanimales.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|solutionrelative:appempresa.api\\appanimales.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\grupos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\grupos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,32 +23,44 @@
       "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\appanimalesmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\appanimalesmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}|AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresaconsumeapi\\appanimalesconsumeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}|AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj|solutionrelative:appempresaconsumeapi\\appanimalesconsumeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\grupos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\grupos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|solutionrelative:appempresa.api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\grupos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\grupos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.api\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71DFC780-6F9B-4276-B825-84792A93B2F4}|AppEmpresa.API\\AppAnimales.API.csproj|solutionrelative:appempresa.api\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}|AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresaconsumeapi\\appanimalesconsumeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}|AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj|solutionrelative:appempresaconsumeapi\\appanimalesconsumeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}|AppEmpresa\\AppAnimales.Entidades.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}|AppEmpresa\\AppAnimales.Entidades.csproj|solutionrelative:appempresa\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\grupos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\grupos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}|AppEmpresa\\AppAnimales.Entidades.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}|AppEmpresa\\AppAnimales.Entidades.csproj|solutionrelative:appempresa\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\grupos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\grupos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\views\\animales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\views\\animales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|c:\\users\\david\\source\\repos\\appempresa - copia\\appempresa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{764BA60D-8CFA-4068-A1B5-72ACE00B1895}|AppEmpresa.MVC\\AppAnimalesMVC.csproj|solutionrelative:appempresa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,26 +75,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppAnimales.API",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\AppAnimales.API.csproj",
-              "RelativeDocumentMoniker": "AppEmpresa.API\\AppAnimales.API.csproj",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\AppAnimales.API.csproj",
-              "RelativeToolTip": "AppEmpresa.API\\AppAnimales.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T17:51:04.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AppEmpresa.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAB7AAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T17:39:22.113Z"
+              "WhenOpened": "2024-05-15T19:49:46.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,33 +93,10 @@
               "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AppEmpresa.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T17:39:00.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppAnimalesMVC",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
-              "RelativeDocumentMoniker": "AppEmpresa.MVC\\AppAnimalesMVC.csproj",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
-              "RelativeToolTip": "AppEmpresa.MVC\\AppAnimalesMVC.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T17:37:18.376Z",
+              "WhenOpened": "2024-05-15T19:32:22.669Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
-              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:59:37.962Z"
             },
             {
               "$type": "Document",
@@ -128,82 +106,163 @@
               "RelativeDocumentMoniker": "AppEmpresa.MVC\\Controllers\\AnimalesController.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Controllers\\AnimalesController.cs",
               "RelativeToolTip": "AppEmpresa.MVC\\Controllers\\AnimalesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:54:04.537Z"
+              "WhenOpened": "2024-05-15T19:16:26.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "AppEmpresa.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\appsettings.json",
-              "RelativeToolTip": "AppEmpresa.MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T17:01:15.519Z",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Create.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:14:08.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AppAnimalesConsumeAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
-              "RelativeDocumentMoniker": "AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
-              "RelativeToolTip": "AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T17:23:44.239Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Grupos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Edit.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Grupos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:05:47.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GruposController.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\Controllers\\GruposController.cs",
-              "RelativeDocumentMoniker": "AppEmpresa.API\\Controllers\\GruposController.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\Controllers\\GruposController.cs",
-              "RelativeToolTip": "AppEmpresa.API\\Controllers\\GruposController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswGcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:32:36.957Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:43:34.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Edit.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:46:12.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Grupos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Index.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Grupos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:44:02.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "AppEmpresa.API\\Data\\DbContext.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.API\\Data\\DbContext.cs",
-              "RelativeToolTip": "AppEmpresa.API\\Data\\DbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:30:26.8Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Grupos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Create.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Grupos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:14:36.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppAnimalesConsumeAPI",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+              "RelativeDocumentMoniker": "AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+              "RelativeToolTip": "AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T19:13:31.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Grupo.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\Grupo.cs",
-              "RelativeDocumentMoniker": "AppEmpresa\\Grupo.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\Grupo.cs",
-              "RelativeToolTip": "AppEmpresa\\Grupo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:29:31.321Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Grupos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Delete.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Grupos\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:05:16.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\Animal.cs",
-              "RelativeDocumentMoniker": "AppEmpresa\\Animal.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\Animal.cs",
-              "RelativeToolTip": "AppEmpresa\\Animal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:28:55.639Z"
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Grupos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Grupos\\Details.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Grupos\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:04:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Details.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Details.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:45:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\Views\\Animales\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\Views\\Animales\\Delete.cshtml",
+              "RelativeToolTip": "AppEmpresa.MVC\\Views\\Animales\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:45:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "AppEmpresa.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\appsettings.json",
+              "RelativeToolTip": "AppEmpresa.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:42:03.498Z"
             }
           ]
         }

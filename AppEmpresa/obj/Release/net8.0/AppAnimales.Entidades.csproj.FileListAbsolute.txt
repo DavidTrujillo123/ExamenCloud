@@ -9,3 +9,4 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\App
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\refint\AppAnimales.Entidades.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\AppAnimales.Entidades.pdb
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\ref\AppAnimales.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\AppAnimales.Entidades.sourcelink.json

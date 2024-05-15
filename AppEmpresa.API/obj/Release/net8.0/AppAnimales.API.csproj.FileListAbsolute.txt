@@ -255,3 +255,4 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.API\obj\Release\net8.0
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.API\obj\Release\net8.0\AppAnimales.API.pdb
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.API\obj\Release\net8.0\AppAnimales.API.genruntimeconfig.cache
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.API\obj\Release\net8.0\ref\AppAnimales.API.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.API\obj\Release\net8.0\AppAnimales.API.sourcelink.json

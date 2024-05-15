@@ -26,8 +26,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Index.cshtml]

@@ -13,5 +13,7 @@ namespace AppAnimales
 
         public string Caracteristica { get; set; }
 
+        public List<Animal>? Animales { get; set; }
+
     }
 }

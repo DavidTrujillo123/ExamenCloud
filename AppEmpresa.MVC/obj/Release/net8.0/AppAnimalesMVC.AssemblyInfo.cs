@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppAnimalesMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62af3c29d812588e61285172cc263ddb2aa5216d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppAnimalesMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppAnimalesMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
