@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\bin\Debug\net8.0\AppEmpresa.Entidades.deps.json
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\bin\Debug\net8.0\AppEmpresa.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\bin\Debug\net8.0\AppEmpresa.Entidades.pdb
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.AssemblyInfo.cs
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\refint\AppEmpresa.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\AppEmpresa.Entidades.pdb
+C:\Users\david\source\repos\AppEmpresa\AppEmpresa\obj\Debug\net8.0\ref\AppEmpresa.Entidades.dll

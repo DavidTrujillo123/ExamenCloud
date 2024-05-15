@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tr7GFeG7fJqRxMfS2XtagaDbnZDNWnPkKm93u77XvCE=",
+  "Source": "AppEmpresa.API",
+  "BasePath": "_content/AppEmpresa.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

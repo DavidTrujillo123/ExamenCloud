@@ -1,0 +1,24 @@
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.deps.json
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.AssemblyInfo.cs
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\refint\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa\AppEmpresaConsumeAPI\obj\Release\net8.0\ref\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.deps.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\bin\Release\net8.0\AppEmpresaConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.AssemblyInfo.cs
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\refint\AppEmpresaConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppEmpresaConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\ref\AppEmpresaConsumeAPI.dll
