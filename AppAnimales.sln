@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimales.Entidades", "AppEmpresa\AppAnimales.Entidades.csproj", "{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimales.Entidades", "AppAnimales\AppAnimales.Entidades.csproj", "{FE966A64-973B-48CD-B05B-E9B1D12DCAE6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimales.API", "AppEmpresa.API\AppAnimales.API.csproj", "{71DFC780-6F9B-4276-B825-84792A93B2F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimales.API", "AppAnimales.API\AppAnimales.API.csproj", "{71DFC780-6F9B-4276-B825-84792A93B2F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimalesMVC", "AppEmpresa.MVC\AppAnimalesMVC.csproj", "{764BA60D-8CFA-4068-A1B5-72ACE00B1895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimalesMVC", "AppAnimales.MVC\AppAnimalesMVC.csproj", "{764BA60D-8CFA-4068-A1B5-72ACE00B1895}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimalesConsumeAPI", "AppEmpresaConsumeAPI\AppAnimalesConsumeAPI.csproj", "{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAnimalesConsumeAPI", "AppAnimalesConsumeAPI\AppAnimalesConsumeAPI.csproj", "{A74E7D36-F41B-4ABB-A27B-BA7C53A04406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

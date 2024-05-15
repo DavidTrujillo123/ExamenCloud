@@ -19,11 +19,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AppEmpresa\AppAnimales.Entidades.csproj" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <ProjectReference Include="..\AppAnimales\AppAnimales.Entidades.csproj" />
   </ItemGroup>
 
 </Project>

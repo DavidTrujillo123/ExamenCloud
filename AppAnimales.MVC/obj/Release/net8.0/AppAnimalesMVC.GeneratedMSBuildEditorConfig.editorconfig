@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppAnimalesMVC
 build_property.RootNamespace = AppAnimalesMVC
-build_property.ProjectDir = C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC\
+build_property.ProjectDir = C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa.MVC
+build_property.MSBuildProjectDirectory = C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Create.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Animales/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Delete.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Animales/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Details.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Animales/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Edit.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Animales/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Animales/Index.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Animales/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Create.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Grupos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Delete.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Grupos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Details.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Grupos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Edit.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Grupos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Grupos/Index.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Grupos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Home/Index.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Home/Privacy.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Shared/Error.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/_ViewImports.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/_ViewStart.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/source/repos/AppEmpresa - copia/AppEmpresa.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/david/source/repos/AppEmpresa - copia/AppAnimales.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4i3i5bct9m

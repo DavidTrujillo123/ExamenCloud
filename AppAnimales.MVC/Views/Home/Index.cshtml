@@ -4,11 +4,10 @@
 
 <style>
     body {
-        background-image: url('https://scontent.fuio13-1.fna.fbcdn.net/v/t39.30808-6/357190380_581233707534519_2788875710499591306_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JHilAOiYIjAQ7kNvgEgq21H&_nc_ht=scontent.fuio13-1.fna&oh=00_AYCZrLDGB0_nO7dNQOEOmgt6TUETC17wITLk0Jtb0eASIQ&oe=664AEB4D');
-        background-size: cover;
-        background-repeat: no-repeat;
         font-family: Arial, sans-serif;
         color: white;
+        overflow: hidden; /* Evita que los círculos se desborden */
+        position: relative;
     }
 
     .titulo {
@@ -23,6 +22,7 @@
 
     .micontenedor {
         padding: 20px;
+        display: flex;
     }
 
     .tarjeta {
@@ -47,25 +47,79 @@
             border-radius: 5px;
             margin-bottom: 10px;
         }
+
+    /* Estilos para los círculos */
+    .circle {
+        position: absolute;
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        filter: blur(50px); /* Aplicando el efecto de desenfoque */
+    }
 </style>
 
 <div class="container text-center">
+    <!-- Círculo 1 -->
+    <div class="circle" style="background-color: rgba(255, 0, 0, 0.5);"></div>
+
+    <!-- Círculo 2 -->
+    <div class="circle" style="background-color: rgba(0, 255, 0, 0.5);"></div>
+
+    <!-- Círculo 3 -->
+    <div class="circle" style="background-color: rgba(0, 0, 255, 0.5);"></div>
     <div class="titulo">Bienvenido a mi MVC</div>
     <div class="micontenedor">
         <div class="tarjeta">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Imagen de .NET">
+            @* <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Imagen de .NET"> *@
             <h2>¿Qué es .NET?</h2>
             <p>.NET es un framework de desarrollo de software de Microsoft que se utiliza para construir una variedad de aplicaciones, desde aplicaciones web hasta aplicaciones móviles y de escritorio.</p>
         </div>
         <div class="tarjeta">
-            <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Imagen de Entity Framework">
+            @* <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Imagen de Entity Framework"> *@
             <h2>¿Qué es Entity Framework?</h2>
             <p>Entity Framework es una parte de .NET que simplifica el acceso y la manipulación de datos en bases de datos relacionales, facilitando el desarrollo de aplicaciones con acceso a datos.</p>
         </div>
         <div class="tarjeta">
-            <img src="https://i.blogs.es/ad7836/api/1366_2000.jpg" alt="Imagen de APIs">
+            @* <img src="https://i.blogs.es/ad7836/api/1366_2000.jpg" alt="Imagen de APIs"> *@
             <h2>¿Qué son las APIs?</h2>
             <p>Las APIs (Interfaz de Programación de Aplicaciones) permiten que diferentes aplicaciones se comuniquen entre sí, facilitando la integración de sistemas y el intercambio de datos.</p>
         </div>
     </div>
+
+    
 </div>
+
+<script>
+    // Mover los círculos de forma aleatoria
+    var circles = document.querySelectorAll('.circle');
+    circles.forEach(function(circle) {
+        moveCircle(circle);
+    });
+
+    function moveCircle(circle) {
+        var speedX = Math.random() * 2 + 1; // Velocidad en el eje X
+        var speedY = Math.random() * 2 + 1; // Velocidad en el eje Y
+
+        function move() {
+            var x = circle.offsetLeft;
+            var y = circle.offsetTop;
+
+            // Cambiar la dirección si alcanza los bordes de la pantalla
+            if (x <= 0 || x >= window.innerWidth - circle.offsetWidth) {
+                speedX = -speedX;
+            }
+            if (y <= 0 || y >= window.innerHeight - circle.offsetHeight) {
+                speedY = -speedY;
+            }
+
+            // Actualizar la posición
+            circle.style.left = x + speedX + 'px';
+            circle.style.top = y + speedY + 'px';
+
+            // Repetir la animación
+            requestAnimationFrame(move);
+        }
+
+        move();
+    }
+</script>

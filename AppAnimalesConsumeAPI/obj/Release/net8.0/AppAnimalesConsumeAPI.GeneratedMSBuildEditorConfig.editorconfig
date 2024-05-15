@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppAnimalesConsumeAPI
-build_property.ProjectDir = C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\
+build_property.ProjectDir = C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

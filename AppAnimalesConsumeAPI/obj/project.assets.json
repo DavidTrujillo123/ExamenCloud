@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj",
       "projectName": "AppAnimalesConsumeAPI",
-      "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+      "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\obj\\",
+      "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",

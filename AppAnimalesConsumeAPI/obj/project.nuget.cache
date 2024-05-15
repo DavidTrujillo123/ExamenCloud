@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGFVoeQNSDJUx1XUFUKQHZBxIigjraqDFVKqmmbHMdFWOer5Hj5TIilVGOAbeVsQTJ32vGmhDlu2P9omYhoJew==",
+  "dgSpecHash": "nebdnPq+5xEOBLSRwjsg+6AjQ1Im1xR5Lu5D3TQ8Ok2OqPj6oY25E1Wv6H1gejFv72ZifamzLisCQr7C54SyJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

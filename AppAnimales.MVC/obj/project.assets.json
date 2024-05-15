@@ -5708,13 +5708,13 @@
     },
     "AppAnimales.Entidades/1.0.0": {
       "type": "project",
-      "path": "../AppEmpresa/AppAnimales.Entidades.csproj",
-      "msbuildProject": "../AppEmpresa/AppAnimales.Entidades.csproj"
+      "path": "../AppAnimales/AppAnimales.Entidades.csproj",
+      "msbuildProject": "../AppAnimales/AppAnimales.Entidades.csproj"
     },
     "AppAnimalesConsumeAPI/1.0.0": {
       "type": "project",
-      "path": "../AppEmpresaConsumeAPI/AppAnimalesConsumeAPI.csproj",
-      "msbuildProject": "../AppEmpresaConsumeAPI/AppAnimalesConsumeAPI.csproj"
+      "path": "../AppAnimalesConsumeAPI/AppAnimalesConsumeAPI.csproj",
+      "msbuildProject": "../AppAnimalesConsumeAPI/AppAnimalesConsumeAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5730,11 +5730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj",
       "projectName": "AppAnimalesMVC",
-      "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
+      "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\obj\\",
+      "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5751,11 +5751,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj"
+            "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj"
             },
-            "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj"
+            "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj": {
+              "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj"
             }
           }
         }

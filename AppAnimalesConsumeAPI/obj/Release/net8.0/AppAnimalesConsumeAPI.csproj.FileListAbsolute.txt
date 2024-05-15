@@ -11,3 +11,16 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.pdb
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\ref\AppAnimalesConsumeAPI.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresaConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.sourcelink.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\bin\Release\net8.0\AppAnimalesConsumeAPI.deps.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\bin\Release\net8.0\AppAnimalesConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\bin\Release\net8.0\AppAnimalesConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.AssemblyInfo.cs
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.sourcelink.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\refint\AppAnimalesConsumeAPI.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\AppAnimalesConsumeAPI.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimalesConsumeAPI\obj\Release\net8.0\ref\AppAnimalesConsumeAPI.dll

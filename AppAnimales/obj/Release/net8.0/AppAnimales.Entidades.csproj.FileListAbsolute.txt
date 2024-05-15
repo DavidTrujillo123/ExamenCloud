@@ -10,3 +10,15 @@ C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\ref
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\AppAnimales.Entidades.pdb
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\ref\AppAnimales.Entidades.dll
 C:\Users\david\source\repos\AppEmpresa - copia\AppEmpresa\obj\Release\net8.0\AppAnimales.Entidades.sourcelink.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\bin\Release\net8.0\AppAnimales.Entidades.deps.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\bin\Release\net8.0\AppAnimales.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\bin\Release\net8.0\AppAnimales.Entidades.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.AssemblyInfo.cs
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.sourcelink.json
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\refint\AppAnimales.Entidades.dll
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\AppAnimales.Entidades.pdb
+C:\Users\david\source\repos\AppEmpresa - copia\AppAnimales\obj\Release\net8.0\ref\AppAnimales.Entidades.dll

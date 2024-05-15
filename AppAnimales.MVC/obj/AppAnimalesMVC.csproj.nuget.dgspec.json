@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj": {}
+    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj": {
+    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj",
         "projectName": "AppAnimalesMVC",
-        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj"
+              "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj"
               },
-              "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj"
+              "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj": {
+                "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
+    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj",
         "projectName": "AppAnimalesConsumeAPI",
-        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\AppAnimalesConsumeAPI.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\AppAnimalesConsumeAPI.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresaConsumeAPI\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimalesConsumeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj": {
+    "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj",
         "projectName": "AppAnimales.Entidades",
-        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\AppAnimales.Entidades.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\AppAnimales.Entidades.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",

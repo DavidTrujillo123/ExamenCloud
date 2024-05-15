@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+2jrkujj0RSbQhz/qj8gSL3PggkULMzeoETOKNI4ttE8GpMeSLrxYq3ryzNH416ZnG2KL+5zpS0ocydewtR2A==",
+  "dgSpecHash": "u9OMzW3teuJWkfRimSsQx3EhRbKH3tOFLvrW+wiQX58AB3fU5nli02dknwMRY/lWKc0dCUMH2jP2N/AM3Vsc5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppEmpresa.MVC\\AppAnimalesMVC.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\AppEmpresa - copia\\AppAnimales.MVC\\AppAnimalesMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
